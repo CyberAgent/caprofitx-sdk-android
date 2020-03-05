@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>jp.caprofitx</groupId>
+  <artifactId>profitxsdk</artifactId>
+  <versioning>
+    <latest>3.2.2-pre</latest>
+    <release>3.2.2-pre</release>
+    <versions>
+      <version>3.2.2-pre</version>
+    </versions>
+    <lastUpdated>20200305084913</lastUpdated>
+  </versioning>
+</metadata>
