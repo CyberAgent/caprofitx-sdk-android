@@ -3,11 +3,12 @@
   <groupId>jp.caprofitx</groupId>
   <artifactId>profitxsdk</artifactId>
   <versioning>
-    <latest>3.2.2-pre</latest>
-    <release>3.2.2-pre</release>
+    <latest>3.2.2-pre.1</latest>
+    <release>3.2.2-pre.1</release>
     <versions>
       <version>3.2.2-pre</version>
+      <version>3.2.2-pre.1</version>
     </versions>
-    <lastUpdated>20200305084913</lastUpdated>
+    <lastUpdated>20200319045100</lastUpdated>
   </versioning>
 </metadata>
